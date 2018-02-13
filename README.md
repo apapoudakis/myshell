@@ -1,6 +1,6 @@
 # Unix Shell
 
-This is an implementation of a unix shell in C.
+This is an implementation of a unix shell in C. The shell supports basic commands which can be executed from execvp function and some built in commands like cd and quit.
 
 Execution:
 - cd to the correct path
@@ -16,7 +16,7 @@ The shell has two modes:
 
 - batch() : reads the batchfile line by line 
 
-- parsing() : Parse the line in tokens with strtok function and delimeter ; and &&
+- parsing() : Parse the line in tokens with strtok function and delimeter ; , &&
 
 - exec() : fork a child process witch execute the commands
 
