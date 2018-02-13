@@ -6,5 +6,5 @@ Execution:
 - cd to the correct path
 - make
 - ./myshell or ./myshell batchfile
-- make clean 
+- make clear
 
