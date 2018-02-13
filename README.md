@@ -14,7 +14,7 @@ The shell has two modes:
 ## Basic functions of code:
 - main() : main starts interactive or batch mode based on the number of arguments 
 
-- interactive() : reads the command from the user
+- interactive() : reads the commands from the user
 
 - batch() : reads the batchfile line by line 
 
