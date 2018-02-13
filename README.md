@@ -11,7 +11,7 @@ The shell has two modes:
 - Interactive mode
 - Batch mode
 
-## Description of basic functions:
+## Basic functions of code:
 - interactive() : reads the command from the user
 
 - batch() : reads the batchfile line by line 
